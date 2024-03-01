@@ -1,7 +1,7 @@
 <p align="center">
-  <a href="https://anuraghazra.github.io/">
+  <a href="https://rishabhsinghrathaur.github.io/">
     <img alt="Gatsby" src="./src/static/logo_noalpha.svg" width="100" />
-    <h2 align="center">Anurag Hazra</h2>
+    <h2 align="center">Rishabh Rathaur</h2>
   </a>
 </p> 
 <p align="center">Creative FrontEnd Web Developer</p>
