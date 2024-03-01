@@ -11,7 +11,7 @@
 ![Website](https://img.shields.io/website?down_message=offline&label=site&up_message=online&url=http%3A%2F%2Fanuraghazra.github.io)
 
 
-![Anurag Hazra Site Preview](./src/static/screenshot.png)
+![Blog Site Preview](./src/static/screenshot.png)
 
 Strained eyes? There's DarkMode too :p
 
@@ -28,7 +28,7 @@ _NOTE: The default branch for this repo is `develop`, when you push or pull make
 Fork the repository. then clone the repo locally by doing -
 
 ```bash
-git clone https://github.com/anuraghazra/anuraghazra.github.io.git
+git clone https://github.com/anuraghazra/rishabhsinghrathaur.github.io.git
 ```
 
 ### Step 2: Install Dependencies
@@ -36,7 +36,7 @@ git clone https://github.com/anuraghazra/anuraghazra.github.io.git
 cd into the directory
 
 ```bash
-cd anuraghazra.github.io
+cd rishabhsinghrathaur.github.io
 ```
 
 install all the dependencies
